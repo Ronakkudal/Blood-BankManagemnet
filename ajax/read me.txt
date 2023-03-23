@@ -1,0 +1,7 @@
+1. Make required changes in dbconn page which connects website with database
+For example- password
+
+2. Import the database file and name of database should be project 
+ 
+3 Admin Login name - rahulgautam
+Password - 123456
